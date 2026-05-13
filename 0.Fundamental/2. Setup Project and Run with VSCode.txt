@@ -86,7 +86,7 @@ Done! I've added spring-boot-devtools to your pom.xml.
 Now restart your project:
 
 
-./mvnw spring-boot:run
+>>> ./mvnw spring-boot:run
 How it works:
 
 After restarting, any code change you save will automatically trigger a restart (usually within 1-2 seconds)
